@@ -1,0 +1,3 @@
+Claim Fraud Detection with Imbalanced Data Using Machine Learning Methods
+Introduction
+Insurance claim fraud is a costly problem in the industry, driving up losses and premiums. Travelers Insurance Company is focusing on first-party physical damage auto claims (i.e. claims for the policyholder’s own vehicle) from 2015–2016 to detect potential fraud. The challenge is that fraudulent claims are relatively rare, so a sophisticated detection approach is needed to address this imbalance issue. This project explores how machine learning can help flag fraudulent claims, providing insights into key risk factors and improving the efficiency of fraud investigations.
